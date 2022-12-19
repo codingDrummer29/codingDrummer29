@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codingDrummer29
-- 👀 I’m interested in fullstack web development using new techs
-- 🌱 I’m currently brushing off PHP Laravel & learning Django
-- 💞️ I’m looking to collaborate on MERN or MEAN stack PWA
+- 👀 I’m interested in fullstack web development and learning native app development along with DevOps implementations
+- 🌱 I’m currently working as a Full-stack web application developer with specialization in React, MySQL, Node, PHP
+- 💞️ I’m looking to collaborate on MERN or MEAN based application developments
 - 📫 How to reach me on mukerji29anuvb@gmail.com
 
 <!---
